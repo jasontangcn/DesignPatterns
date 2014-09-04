@@ -72,7 +72,7 @@ public class Memento {
 
 	public class Caretaker {
 		private Originator originator;
-		private List mementos = new ArryList();
+		private List mementos = new ArrayList();
 
 		private int current;
 
