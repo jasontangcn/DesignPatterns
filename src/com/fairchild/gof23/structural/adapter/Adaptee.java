@@ -7,6 +7,7 @@ package com.fairchild.gof23.structural.adapter;
 public class Adaptee {
 	public void method3() {
 	}
+
 	public void method4() {
 	}
 }

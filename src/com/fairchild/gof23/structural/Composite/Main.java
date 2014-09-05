@@ -4,7 +4,6 @@
  */
 package com.fairchild.gof23.structural.Composite;
 
-
 /**
  * @author TomHornson(at)hotmail.com
  */

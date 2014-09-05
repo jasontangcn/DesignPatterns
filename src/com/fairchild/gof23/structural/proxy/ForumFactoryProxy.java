@@ -1,6 +1,5 @@
 package com.fairchild.gof23.structural.proxy;
 
-
 public class ForumFactoryProxy extends ForumFactory {
 	protected ForumFactory factory;
 	protected Authorization authorization;

@@ -1,6 +1,5 @@
 package com.fairchild.gof23.creational.builder;
 
-
 public class ConcreteBuilder extends Builder {
 	private Product product = new Product();
 

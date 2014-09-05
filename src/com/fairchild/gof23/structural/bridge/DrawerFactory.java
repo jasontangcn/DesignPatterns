@@ -1,6 +1,5 @@
 package com.fairchild.gof23.structural.bridge;
 
-
 public class DrawerFactory {
 	private static Drawer drawer = null;
 

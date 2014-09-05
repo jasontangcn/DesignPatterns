@@ -1,6 +1,5 @@
 package com.fairchild.gof23.creational.builder;
 
-
 abstract public class Builder {
 	public abstract void buildPart1();
 

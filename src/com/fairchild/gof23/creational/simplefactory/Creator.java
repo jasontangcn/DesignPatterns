@@ -1,6 +1,5 @@
 package com.fairchild.gof23.creational.simplefactory;
 
-
 public class Creator {
 	public static Product create(String type) {
 		if ("productType".equals(type)) {
