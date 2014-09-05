@@ -1,4 +1,4 @@
-package com.fairchild.gof23.creational;
+package com.fairchild.gof23.creational.simplefactory;
 
 /*
  * 
@@ -27,19 +27,5 @@ package com.fairchild.gof23.creational;
  * 
  * 
  */
-public class SimpleFactory {
-	public static interface Product {
-	}
-
-	public static class ConcreteProduct implements Product {
-	}
-
-	public static class Creator {
-		public static Product create(String type) {
-			if ("productType".equals(type)) {
-				return new ConcreteProduct();
-			}
-			return null;
-		}
-	}
+public class Main {
 }
