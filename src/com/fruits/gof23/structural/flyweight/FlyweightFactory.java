@@ -1,4 +1,4 @@
-package com.fairchild.gof23.structural.flyweight;
+package com.fruits.gof23.structural.flyweight;
 
 import java.util.HashMap;
 

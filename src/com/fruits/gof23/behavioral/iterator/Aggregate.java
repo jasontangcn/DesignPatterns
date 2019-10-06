@@ -1,4 +1,4 @@
-package com.fairchild.gof23.behavioral.iterator;
+package com.fruits.gof23.behavioral.iterator;
 
 public abstract class Aggregate {
 	public abstract Iterator iterator();

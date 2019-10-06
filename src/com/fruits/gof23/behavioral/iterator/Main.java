@@ -1,7 +1,7 @@
 /*
  * Created on 2004-9-23
  */
-package com.fairchild.gof23.behavioral.iterator;
+package com.fruits.gof23.behavioral.iterator;
 
 /**
  * @author TomHornson(at)hotmail.com

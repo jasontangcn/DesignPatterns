@@ -1,4 +1,4 @@
-package com.fairchild.gof23.structural.proxy;
+package com.fruits.gof23.structural.proxy;
 
 public class ForumImpl implements Forum {
 	private String name;

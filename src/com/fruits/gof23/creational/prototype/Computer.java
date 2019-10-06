@@ -1,4 +1,4 @@
-package com.fairchild.gof23.creational.prototype;
+package com.fruits.gof23.creational.prototype;
 
 public class Computer implements Cloneable {
 	private Disk disk = new Disk();

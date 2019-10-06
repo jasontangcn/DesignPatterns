@@ -1,4 +1,4 @@
-package com.fairchild.gof23.structural.Composite;
+package com.fruits.gof23.structural.Composite;
 
 public class DisplayCard extends Device {
 	public DisplayCard(String name) {

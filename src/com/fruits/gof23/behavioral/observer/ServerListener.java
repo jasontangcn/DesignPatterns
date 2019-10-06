@@ -1,4 +1,4 @@
-package com.fairchild.gof23.behavioral.observer;
+package com.fruits.gof23.behavioral.observer;
 
 import java.util.Observable;
 

@@ -2,7 +2,7 @@
  * Created on 2004-9-23
  *
  */
-package com.fairchild.gof23.structural.Decorator;
+package com.fruits.gof23.structural.Decorator;
 
 /**
  * @author TomHornson(at)hotmail.com

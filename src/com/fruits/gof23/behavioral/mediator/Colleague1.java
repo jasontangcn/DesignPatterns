@@ -1,4 +1,4 @@
-package com.fairchild.gof23.behavioral.mediator;
+package com.fruits.gof23.behavioral.mediator;
 
 public class Colleague1 extends Colleague {
 	public Colleague1(Mediator mediator) {

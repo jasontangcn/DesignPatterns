@@ -1,4 +1,4 @@
-package com.fairchild.gof23.structural.Composite;
+package com.fruits.gof23.structural.Composite;
 
 public class Disk extends Device {
 	public Disk(String name) {

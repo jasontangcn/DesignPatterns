@@ -1,4 +1,4 @@
-package com.fairchild.gof23.behavioral.state;
+package com.fruits.gof23.behavioral.state;
 
 public class Chess {
 	private Position position;

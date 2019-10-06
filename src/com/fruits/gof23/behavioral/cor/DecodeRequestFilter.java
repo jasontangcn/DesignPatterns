@@ -1,4 +1,4 @@
-package com.fairchild.gof23.behavioral.cor;
+package com.fruits.gof23.behavioral.cor;
 
 public class DecodeRequestFilter implements Filter {
 	public void doFilter(FilterChain filterChain) {

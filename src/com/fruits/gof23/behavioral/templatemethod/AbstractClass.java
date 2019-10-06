@@ -1,4 +1,4 @@
-package com.fairchild.gof23.behavioral.templatemethod;
+package com.fruits.gof23.behavioral.templatemethod;
 
 public abstract class AbstractClass {
 	public void doOperations() {

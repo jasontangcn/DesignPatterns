@@ -1,4 +1,4 @@
-package com.fairchild.gof23.structural.Decorator;
+package com.fruits.gof23.structural.Decorator;
 
 public class HtmlPage implements Decoratee {
 	private String content = null;

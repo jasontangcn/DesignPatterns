@@ -1,4 +1,4 @@
-package com.fairchild.gof23.structural.Decorator;
+package com.fruits.gof23.structural.Decorator;
 
 public class FooterDecorator implements Decoratee {
 	private Decoratee decoratee = null;

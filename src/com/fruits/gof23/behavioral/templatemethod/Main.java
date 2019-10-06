@@ -1,7 +1,7 @@
 /*
  * Created on 2004-9-23
  */
-package com.fairchild.gof23.behavioral.templatemethod;
+package com.fruits.gof23.behavioral.templatemethod;
 
 /**
  * @author TomHornson(at)hotmail.com

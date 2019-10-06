@@ -1,4 +1,4 @@
-package com.fairchild.gof23.structural.Composite;
+package com.fruits.gof23.structural.Composite;
 
 public class Memory extends Device {
 	public Memory(String name) {

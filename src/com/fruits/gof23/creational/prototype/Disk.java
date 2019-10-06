@@ -1,4 +1,4 @@
-package com.fairchild.gof23.creational.prototype;
+package com.fruits.gof23.creational.prototype;
 
 public class Disk implements Cloneable {
 	private StringBuffer content = new StringBuffer();

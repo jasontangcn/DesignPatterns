@@ -1,9 +1,7 @@
-package com.fairchild.gof23.behavioral.memento;
+package com.fruits.gof23.behavioral.memento;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import com.fairchild.gof23.behavioral.memento.Main.Originator.MementoInternal;
 
 public class Originator {
 	private List states;

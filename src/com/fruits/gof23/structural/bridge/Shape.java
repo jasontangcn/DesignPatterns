@@ -1,4 +1,4 @@
-package com.fairchild.gof23.structural.bridge;
+package com.fruits.gof23.structural.bridge;
 
 public abstract class Shape {
 	Drawer drawer = DrawerFactory.getInstance();

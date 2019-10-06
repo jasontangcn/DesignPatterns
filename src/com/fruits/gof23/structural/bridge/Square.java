@@ -1,4 +1,4 @@
-package com.fairchild.gof23.structural.bridge;
+package com.fruits.gof23.structural.bridge;
 
 public class Square extends Shape {
 	public void draw() {

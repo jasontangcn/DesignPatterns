@@ -1,4 +1,4 @@
-package com.fairchild.gof23.behavioral.iterator;
+package com.fruits.gof23.behavioral.iterator;
 
 public interface Iterator {
 	public void first();

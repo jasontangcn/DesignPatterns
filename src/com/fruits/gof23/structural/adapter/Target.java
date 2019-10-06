@@ -1,4 +1,4 @@
-package com.fairchild.gof23.structural.adapter;
+package com.fruits.gof23.structural.adapter;
 
 /**
  * @author TomHornson(at)hotmail.com

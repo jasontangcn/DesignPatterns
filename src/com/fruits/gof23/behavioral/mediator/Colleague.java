@@ -1,4 +1,4 @@
-package com.fairchild.gof23.behavioral.mediator;
+package com.fruits.gof23.behavioral.mediator;
 
 public abstract class Colleague {
 	private Mediator mediator;
